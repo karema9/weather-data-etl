@@ -1,0 +1,5 @@
+fetch data from remote API
+performing cleaing using pyspark
+perform data quality checks
+load the data to s3
+perform some visualizations

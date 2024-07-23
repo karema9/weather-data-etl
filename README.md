@@ -1,2 +1,8 @@
 # weather-data-etl
-a project to obtain weather data from APIs
+--
+
+This is a data engineering project to pull data from API.
+
+### Setting Up
+
+Get the API key from this site - `https://openweathermap.org/api`
